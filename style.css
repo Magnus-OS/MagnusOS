@@ -1,0 +1,36 @@
+/*@media only screen and (max-width: 600px) {
+  body {
+    background-color: black;
+  }
+} */
+
+body {
+  background-color: black;
+}
+
+@font-face {
+   font-family: Backpacker;
+   src: url(fonts/regular.otf);
+   font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-family: Backpacker;
+  src: url(fonts/regular.otf);
+}
+
+p1 {
+  font-size: 20px;
+  color: red;
+  font-family: Backpacker;
+  src: url(fonts/regular.otf);
+}
+
+p2 {
+  font-size: 20px;
+  color: white;
+  font-family: Backpacker;
+  src: url(fonts/regular.otf);
+}
